@@ -1,5 +1,7 @@
 package com.winweather.android.db;
 
+import org.litepal.crud.DataSupport;
+
 /**
  * Created by 10840 on 17/05/30.
  */
